@@ -42,13 +42,13 @@ Personal skill — available in every project on this machine once
 installed:
 
 ```bash
-git clone <this-repo-url> ~/.claude/skills/arena
+git clone https://github.com/UtkukaanSCK/Arena ~/.claude/skills/arena
 ```
 
 Or drop it into a single project instead, so it only applies there:
 
 ```bash
-git clone <this-repo-url> .claude/skills/arena
+git clone https://github.com/UtkukaanSCK/Arena .claude/skills/arena
 ```
 
 Claude Code auto-discovers `SKILL.md` files under `~/.claude/skills/`
